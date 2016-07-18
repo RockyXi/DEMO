@@ -19,6 +19,10 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"这是我的GitHub");
+    
+    NSLog(@"写了一个test");
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
